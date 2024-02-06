@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=kolodxxv)
+
 <!--
 
-![](https://komarev.com/ghpvc/?username=kolodxxv)
+
 
 Here are some ideas to get you started:
 
