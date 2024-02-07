@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Slava, and I am aspiring web developer 
+
 - 🌱 I’m currently learning PHP, Laravel
 - 🔭 I’m currently working on [Instalar](https://www.github.com/kolodxxv/instalar)
 - 📫 How to reach me: [DM](https://www.instagram.com/kolodxxv/)
