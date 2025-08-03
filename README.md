@@ -2,8 +2,8 @@
 
 My name is Slava, and I am aspiring web developer 
 
-- 🌱 I’m currently learning PHP, Laravel
-- 🔭 I’m currently working on [Instalar](https://www.github.com/kolodxxv/instalar)
+- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on [eMuse](https://www.github.com/kolodxxv/eMuse)
 - 📫 How to reach me: [DM](https://www.instagram.com/kolodxxv/)
 
 ![](https://komarev.com/ghpvc/?username=kolodxxv)
